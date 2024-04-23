@@ -1,0 +1,40 @@
+{
+    "name": "rafli - muridkoding",
+    "age": 16,
+    "hobby": [
+        "Coding",
+        "Main Game",
+        "Membaca"
+    ],
+    "github": {
+        "username": "@Rap404",
+        "repositories": 2897,
+        "isGDE": true
+    },
+    "articles":[
+        {
+            "id": 1,
+            "title": "God of war",
+            "subtitle": "that is movie"
+        },
+        {
+            "id": 2,
+            "title": "Harvet Moon",
+            "subtitle": "that is game"
+        },{
+            "id": 3,
+            "title": "Avenger",
+            "subtitle": "that is hero"
+        }
+    ],
+    "contacts": {
+        "1": {
+            "name": "jonshon",
+            "contact": "1234567"
+        },
+        "2": {
+            "name": "Angela",
+            "contact": "987654"
+        }
+    }
+}
